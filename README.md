@@ -52,3 +52,15 @@ A comprehensive repository for Java programming, Data Structures, Algorithms, an
 
 ## Purpose
 This repository documents my journey of learning Java, mastering Data Structures & Algorithms, and improving problem-solving skills.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya9205/JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya9205/JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
