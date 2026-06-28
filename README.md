@@ -59,6 +59,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya9205/JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1672-richest-customer-wealth](https://github.com/Aditya9205/JAVA/tree/master/1672-richest-customer-wealth) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Aditya9205/JAVA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Two Pointers
 |  |
@@ -68,4 +69,8 @@ This repository documents my journey of learning Java, mastering Data Structures
 |  |
 | ------- |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Aditya9205/JAVA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Aditya9205/JAVA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
