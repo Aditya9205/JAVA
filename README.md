@@ -59,6 +59,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya9205/JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0162-find-peak-element](https://github.com/Aditya9205/JAVA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1672-richest-customer-wealth](https://github.com/Aditya9205/JAVA/tree/master/1672-richest-customer-wealth) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Aditya9205/JAVA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -77,5 +78,6 @@ This repository documents my journey of learning Java, mastering Data Structures
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Aditya9205/JAVA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
