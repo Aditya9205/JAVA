@@ -11,6 +11,6 @@ class Solution {
             i += 2;
         }
 
-        return nums[nums.length - 1];
+        return nums[i];
     }
 }
