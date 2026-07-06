@@ -65,6 +65,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya9205/JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Aditya9205/JAVA/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/Aditya9205/JAVA/tree/master/1929-concatenation-of-array) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Aditya9205/JAVA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Two Pointers
 |  |
@@ -92,4 +93,8 @@ This repository documents my journey of learning Java, mastering Data Structures
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya9205/JAVA/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Aditya9205/JAVA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
