@@ -63,6 +63,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 | [0136-single-number](https://github.com/Aditya9205/JAVA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Aditya9205/JAVA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Aditya9205/JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Aditya9205/JAVA/tree/master/1672-richest-customer-wealth) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Aditya9205/JAVA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Two Pointers
@@ -87,4 +88,8 @@ This repository documents my journey of learning Java, mastering Data Structures
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aditya9205/JAVA/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Aditya9205/JAVA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
