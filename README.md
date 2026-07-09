@@ -62,6 +62,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya9205/JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/Aditya9205/JAVA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Aditya9205/JAVA/tree/master/0162-find-peak-element) |
+| [0832-flipping-an-image](https://github.com/Aditya9205/JAVA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya9205/JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aditya9205/JAVA/tree/master/1389-create-target-array-in-the-given-order) |
@@ -75,6 +76,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya9205/JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0832-flipping-an-image](https://github.com/Aditya9205/JAVA/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +84,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Aditya9205/JAVA/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Aditya9205/JAVA/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -93,6 +96,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aditya9205/JAVA/tree/master/0136-single-number) |
+| [0832-flipping-an-image](https://github.com/Aditya9205/JAVA/tree/master/0832-flipping-an-image) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,6 +104,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Aditya9205/JAVA/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aditya9205/JAVA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/Aditya9205/JAVA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
