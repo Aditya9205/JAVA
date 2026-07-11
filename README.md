@@ -58,6 +58,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya9205/JAVA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya9205/JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya9205/JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/Aditya9205/JAVA/tree/master/0136-single-number) |
@@ -110,6 +111,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya9205/JAVA/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya9205/JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya9205/JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
