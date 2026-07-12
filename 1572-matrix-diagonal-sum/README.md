@@ -2,7 +2,7 @@
 
 <p>Only include the sum of all the elements on the primary diagonal and all the elements on the secondary diagonal that are not part of the primary diagonal.</p>
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> 
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/08/14/sample_1911.png" style="width: 336px; height: 174px;" />
 <pre>
