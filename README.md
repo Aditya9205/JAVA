@@ -65,6 +65,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 | [0162-find-peak-element](https://github.com/Aditya9205/JAVA/tree/master/0162-find-peak-element) |
 | [0832-flipping-an-image](https://github.com/Aditya9205/JAVA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/1095-find-in-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya9205/JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aditya9205/JAVA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya9205/JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -95,6 +96,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya9205/JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aditya9205/JAVA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/1095-find-in-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,4 +130,8 @@ This repository documents my journey of learning Java, mastering Data Structures
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya9205/JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
