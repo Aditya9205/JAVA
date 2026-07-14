@@ -61,6 +61,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 | [0001-two-sum](https://github.com/Aditya9205/JAVA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya9205/JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya9205/JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Aditya9205/JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Aditya9205/JAVA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Aditya9205/JAVA/tree/master/0162-find-peak-element) |
 | [0832-flipping-an-image](https://github.com/Aditya9205/JAVA/tree/master/0832-flipping-an-image) |
@@ -87,6 +88,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Aditya9205/JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Aditya9205/JAVA/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Aditya9205/JAVA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aditya9205/JAVA/tree/master/1672-richest-customer-wealth) |
@@ -94,6 +96,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya9205/JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Aditya9205/JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Aditya9205/JAVA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/1095-find-in-mountain-array) |
