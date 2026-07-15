@@ -69,6 +69,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/1095-find-in-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya9205/JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Aditya9205/JAVA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aditya9205/JAVA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya9205/JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Aditya9205/JAVA/tree/master/1470-shuffle-the-array) |
@@ -91,6 +92,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aditya9205/JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Aditya9205/JAVA/tree/master/0832-flipping-an-image) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Aditya9205/JAVA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Aditya9205/JAVA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aditya9205/JAVA/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
