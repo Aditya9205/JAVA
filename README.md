@@ -68,6 +68,7 @@ This repository documents my journey of learning Java, mastering Data Structures
 | [0832-flipping-an-image](https://github.com/Aditya9205/JAVA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/1095-find-in-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Aditya9205/JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya9205/JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Aditya9205/JAVA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aditya9205/JAVA/tree/master/1389-create-target-array-in-the-given-order) |
@@ -141,4 +142,8 @@ This repository documents my journey of learning Java, mastering Data Structures
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Aditya9205/JAVA/tree/master/1095-find-in-mountain-array) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Aditya9205/JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
